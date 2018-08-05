@@ -10,7 +10,7 @@ Google Play 下载anyconnect<a href="https://play.google.com/store/apps/details?
 Google Play下载 OpenConnect <a href="https://play.google.com/store/apps/details?id=app.openconnect&hl=zh_CN">点我</a>  
 
 
-
+__`shadowsocksr下载`__ ssr客户端 <a href="https://www.xuanlove.download/shadowsocks/">点我</a> 注意shadowsocks 不等于shadowsocksr (ssr)
 
 __`ShadowSocks客户端下载:`2__   
 windows客户端ss <a href="https://files.eduvpn.net/Shadowsocks-4.0.4.zip ">点我</a>   官方github站点:<a href="https://github.com/shadowsocks/shadowsocks-windows/releases">点我</a>  
