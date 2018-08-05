@@ -9,11 +9,14 @@ ocserv-openconnect(anyconnect)下载链接:
 
 
 ShadowSocks客户端下载: 
-windows客户端 <a href="https://files.eduvpn.net/Shadowsocks-4.0.4.zip ">点我</a> 官方github站点:<a href="https://github.com/shadowsocks/shadowsocks-windows/releases">点我</a>
+windows客户端 <a href="https://files.eduvpn.net/Shadowsocks-4.0.4.zip ">点我</a>   官方github站点:<a href="https://github.com/shadowsocks/shadowsocks-windows/releases">点我</a>
 
-Mac OS客户端 <a href="https://files.eduvpn.net/ShadowsocksX-NG.1.5.1.zip">点我</a>  官方github站点:<a href="https://github.com/shadowsocks/shadowsocks-iOS/releases/download/2.6.3/ShadowsocksX-2.6.3.dmg">点我</a>
+Mac OS客户端 <a href="https://files.eduvpn.net/ShadowsocksX-NG.1.5.1.zip">点我</a>    官方github站点:<a href="https://github.com/shadowsocks/shadowsocks-iOS/releases/download/2.6.3/ShadowsocksX-2.6.3.dmg">点我</a>
+
 Android	Google Play下载: <a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks">点我</a>
+
 iOS	Apple下载: <a href="https://github.com/shadowsocks/shadowsocks-iOS/releases/download/2.6.3/ShadowsocksX-2.6.3.dmg">点我</a>
+
 安卓手机 选对自己手机cpu架构下载:<a href="https://github.com/shadowsocks/shadowsocks-android/releases">点我</a>
   
 
